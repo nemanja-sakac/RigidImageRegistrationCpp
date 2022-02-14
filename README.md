@@ -13,8 +13,8 @@ Using the presented methodology, with the appropriate selection of z-normalizati
     <td><b>Convergence Rate</b></td>
   </tr>
   <tr>
-    <td><img src="img/diff_before.png" width=270></td>
-    <td><img src="img/diff_after.png" width=270></td>
+    <td><img src="img/diff_before.bmp" width=270></td>
+    <td><img src="img/diff_after.bmp" width=270></td>
     <td><img src="img/pr_conv_rate.gif" width=270></td>
   </tr>
 </table>
